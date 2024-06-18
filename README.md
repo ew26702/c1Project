@@ -21,7 +21,7 @@ gdlg<br>fd;gl'<br>trtgrdy
 
 ## [文件解說](blog/index.html)
 ![圖](pngtree-super-cute-cartoon-vector-bear-png-image_6504049.png)
-![101圖](pic/101.jpg)
+
 <ul type="disk">
 <li>台北捷運板南線</li>
 <li>台北捷運淡水線</li>
