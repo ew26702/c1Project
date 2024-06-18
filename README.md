@@ -9,6 +9,8 @@
 gdlg<br>fd;gl'<br>trtgrdy
 
 <hr>
-[Yahoo](http:tw.yahoo.com)
+[Yahoo](http://tw.yahoo.com)
+
+[GooGle](http://www.google.com)
 
 
