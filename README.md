@@ -20,5 +20,5 @@ gdlg<br>fd;gl'<br>trtgrdy
 [GooGle](http://www.google.com)
 
 ## [文件解說](blog/index.html)
-![圖]()
+![圖](pngtree-super-cute-cartoon-vector-bear-png-image_6504049.png)
 ![101圖](pic/101.jpg)
